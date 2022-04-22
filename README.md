@@ -1,4 +1,3 @@
-# readMeGenerator
 # Professional README Generator
 
 ## Description 
@@ -19,6 +18,9 @@ To generate your own README, git clone the repo down to your local so you have t
 
 ## Live Demo 
 
+![demo](https://user-images.githubusercontent.com/97413286/164603043-d2bf5567-7a4d-4393-8ec4-a338ae8fcb4f.gif)
+![Screenshot 2022-04-21 212330](https://user-images.githubusercontent.com/97413286/164603075-01a72305-b61f-434f-9800-16e3eefa0957.png)
+![Screenshot 2022-04-21 212408](https://user-images.githubusercontent.com/97413286/164603078-78b21ea1-dc18-4cd1-acd4-69f64b9c1ca5.png)
 
 
 ## Contributing 
@@ -31,5 +33,8 @@ you may fork this application by the following steps
 * Push your work back up to your fork
 * Other Notes
 
+##Contacts
+github: https://github.com/jamesN1307/readMeGenerator
+EmailL: tri1307@uw.edu
 
 © 2022 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
